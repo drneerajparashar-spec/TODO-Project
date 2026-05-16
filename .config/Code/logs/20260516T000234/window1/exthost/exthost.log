@@ -1,0 +1,13 @@
+2026-05-16 00:02:38.770 [info] Extension host with pid 2352 started
+2026-05-16 00:02:38.771 [info] Skipping acquiring lock for /home/neeraj_parashar/.config/Code/User/workspaceStorage/73d80819e0d074e043f39d9890a7d89e.
+2026-05-16 00:02:39.002 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-05-16 00:02:39.041 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-05-16 00:02:39.319 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2026-05-16 00:02:39.380 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-05-16 00:02:39.482 [info] Eager extensions activated
+2026-05-16 00:02:39.544 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-05-16 00:02:39.552 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-05-16 00:10:30.184 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-05-16 00:10:30.678 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-05-16 00:10:30.992 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-05-16 00:10:59.333 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github

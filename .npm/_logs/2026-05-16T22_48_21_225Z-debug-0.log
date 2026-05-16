@@ -1,0 +1,19 @@
+0 verbose cli /home/neeraj_parashar/.nvm/versions/node/v24.15.0/bin/node /home/neeraj_parashar/.nvm/versions/node/v24.15.0/bin/npm
+1 info using npm@11.12.1
+2 info using node@v24.15.0
+3 silly config load:file:/home/neeraj_parashar/.nvm/versions/node/v24.15.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/neeraj_parashar/myapp/.npmrc
+5 silly config load:file:/home/neeraj_parashar/.npmrc
+6 silly config load:file:/home/neeraj_parashar/.nvm/versions/node/v24.15.0/etc/npmrc
+7 verbose title npm fund
+8 verbose argv "fund"
+9 verbose logfile logs-max:10 dir:/home/neeraj_parashar/.npm/_logs/2026-05-16T22_48_21_225Z-
+10 verbose logfile /home/neeraj_parashar/.npm/_logs/2026-05-16T22_48_21_225Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:2231107584 maxSize:557776896 maxEntrySize:278888448
+13 verbose cwd /home/neeraj_parashar/myapp
+14 verbose os Linux 6.6.114.1-microsoft-standard-WSL2
+15 verbose node v24.15.0
+16 verbose npm  v11.12.1
+17 verbose exit 0
+18 info ok

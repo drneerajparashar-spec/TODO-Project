@@ -1,0 +1,14 @@
+{
+  "socketPath": "/tmp/mcp-sQp0tR/mcp.sock",
+  "scheme": "unix",
+  "headers": {
+    "Authorization": "Nonce a59f3564-d0d9-4c7c-8fad-d109a89c2ac1"
+  },
+  "pid": 8478,
+  "ideName": "Visual Studio Code",
+  "timestamp": 1778892821024,
+  "workspaceFolders": [
+    "/mnt/c/users/Neeraj Parashar/Downloads"
+  ],
+  "isTrusted": true
+}

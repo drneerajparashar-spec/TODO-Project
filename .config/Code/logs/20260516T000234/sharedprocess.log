@@ -1,0 +1,8 @@
+2026-05-16 00:02:37.986 [info] Started initializing default profile extensions in extensions installation folder. file:///home/neeraj_parashar/.vscode/extensions
+2026-05-16 00:02:38.551 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/neeraj_parashar/.vscode/extensions
+2026-05-16 00:02:41.502 [info] Getting Manifest... github.copilot-chat
+2026-05-16 00:02:41.828 [info] Installing extension: github.copilot-chat {"productVersion":{"version":"1.120.0","date":"2026-05-12T20:17:22Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/neeraj_parashar/.vscode/extensions/extensions.json","path":"/home/neeraj_parashar/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":true}
+2026-05-16 00:02:46.846 [info] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 2872ms.
+2026-05-16 00:02:50.248 [info] Extracted extension to file:///home/neeraj_parashar/.vscode/extensions/github.copilot-chat-0.48.1: github.copilot-chat
+2026-05-16 00:02:50.318 [info] Renamed to /home/neeraj_parashar/.vscode/extensions/github.copilot-chat-0.48.1
+2026-05-16 00:02:50.407 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/neeraj_parashar/.vscode/extensions/extensions.json

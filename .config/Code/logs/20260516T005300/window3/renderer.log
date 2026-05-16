@@ -1,0 +1,9 @@
+2026-05-16 00:54:22.214 [info] Started local extension host with pid 8774.
+2026-05-16 00:54:24.016 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-05-16 00:54:25.502 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-05-16 00:54:27.097 [info] [perf] Render performance baseline is 64ms
+2026-05-16 00:54:29.015 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-05-16 00:54:37.187 [error] [Extension Host] (node:8774) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-05-16 00:54:37.188 [error] [Extension Host] (node:8774) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-05-16 00:54:40.429 [error] An unknown error occurred. Please consult the log for more details.

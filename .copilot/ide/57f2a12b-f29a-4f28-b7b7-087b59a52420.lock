@@ -1,0 +1,14 @@
+{
+  "socketPath": "/tmp/mcp-orWelN/mcp.sock",
+  "scheme": "unix",
+  "headers": {
+    "Authorization": "Nonce baf21314-08a0-4f54-97cf-f6d0a1ba94bf"
+  },
+  "pid": 8774,
+  "ideName": "Visual Studio Code",
+  "timestamp": 1778892879347,
+  "workspaceFolders": [
+    "/home/neeraj_parashar/python-test"
+  ],
+  "isTrusted": true
+}

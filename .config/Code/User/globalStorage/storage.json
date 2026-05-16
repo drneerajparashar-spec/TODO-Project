@@ -1,0 +1,119 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "08c1ee42ea070a746c86aa98240f5a917c6fb477e33a17ad0ae83a369abe6bee",
+    "telemetry.devDeviceId": "5fb77616-d207-4e4c-8981-abc4373bd574",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///mnt/c/users/Neeraj%20Parashar/Downloads"
+            },
+            {
+                "folderUri": "file:///home/neeraj_parashar/python-test"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1778892782943"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///mnt/c/users/Neeraj%20Parashar/Downloads": "__default__profile__",
+            "file:///home/neeraj_parashar/python-test": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1778892782943": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#002b36",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#002b36",
+            "editorBackground": "#002b36",
+            "titleBarBackground": "#002c39",
+            "activityBarBackground": "#003847",
+            "sideBarBackground": "#00212b",
+            "statusBarBackground": "#00212b",
+            "statusBarNoFolderBackground": "#00212b"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "73d80819e0d074e043f39d9890a7d89e": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "3ada8125b810c2153d418e982b19c5e2": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/neeraj_parashar/.config/Code/Backups/1778892782943",
+            "uiState": {
+                "mode": 1,
+                "x": 83,
+                "y": 0,
+                "width": 1200,
+                "height": 768
+            }
+        },
+        "openedWindows": [
+            {
+                "folder": "file:///mnt/c/users/Neeraj%20Parashar/Downloads",
+                "backupPath": "/home/neeraj_parashar/.config/Code/Backups/1b418c5205a6e02b24e4b57b10e33b0d",
+                "uiState": {
+                    "mode": 1,
+                    "x": 0,
+                    "y": 0,
+                    "width": 1365,
+                    "height": 767
+                }
+            },
+            {
+                "backupPath": "/home/neeraj_parashar/.config/Code/Backups/1778892782943",
+                "uiState": {
+                    "mode": 1,
+                    "x": 83,
+                    "y": 0,
+                    "width": 1200,
+                    "height": 768
+                }
+            },
+            {
+                "folder": "file:///home/neeraj_parashar/python-test",
+                "backupPath": "/home/neeraj_parashar/.config/Code/Backups/27bf42940825fc5809cbe2133b8287eb",
+                "uiState": {
+                    "mode": 1,
+                    "x": 0,
+                    "y": 0,
+                    "width": 1365,
+                    "height": 767
+                }
+            }
+        ]
+    }
+}

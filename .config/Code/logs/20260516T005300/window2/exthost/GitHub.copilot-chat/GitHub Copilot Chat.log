@@ -1,0 +1,164 @@
+2026-05-16 00:53:37.796 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2026-05-16 00:53:37.796 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2026-05-16 00:53:37.796 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2026-05-16 00:53:37.796 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2026-05-16 00:53:37.893 [info] Logged in as drneerajparashar-spec
+2026-05-16 00:53:37.910 [info] Using the Electron fetcher.
+2026-05-16 00:53:38.103 [info] ConversationFeature: Waiting for copilot token to activate conversation feature
+2026-05-16 00:53:38.165 [info] Creating ripgrep shim: source=/usr/share/code/resources/app/node_modules/@vscode/ripgrep/bin, dest=/home/neeraj_parashar/.vscode/extensions/github.copilot-chat-0.48.1/node_modules/@github/copilot/sdk/ripgrep/bin/linux-x64
+2026-05-16 00:53:38.329 [info] Creating node-pty shim: source=/usr/share/code/resources/app/node_modules/node-pty/build/Release, dest=/home/neeraj_parashar/.vscode/extensions/github.copilot-chat-0.48.1/node_modules/@github/copilot/sdk/prebuilds/linux-x64
+2026-05-16 00:53:38.490 [info] Found 1 entries to copy: pty.node
+2026-05-16 00:53:38.551 [info] Found 1 entries to copy: rg
+2026-05-16 00:53:38.556 [info] Got Copilot token for drneerajparashar-spec
+2026-05-16 00:53:38.556 [info] Copilot Chat: 0.48.1, VS Code: 1.120.0
+2026-05-16 00:53:38.648 [info] [context keys] Setting context key: github.copilot-chat.activated
+2026-05-16 00:53:38.652 [info] activationBlocker from 'languageModelAccess' took for 679ms
+2026-05-16 00:53:38.665 [info] [CopilotCLI] MCP server started. Lock file: /home/neeraj_parashar/.copilot/ide/89dfbcd7-9634-4fb1-8841-fe7203f0b47d.lock
+2026-05-16 00:53:38.665 [info] [CopilotCLI] Server URI: unix:/tmp/mcp-uK5JWw/mcp.sock#%2Fmcp
+2026-05-16 00:53:38.894 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-05-16 00:53:38.894 [info] copilot token sku: free_limited_copilot
+2026-05-16 00:53:38.894 [info] ConversationFeature: Activating contributions
+2026-05-16 00:53:38.894 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2026-05-16 00:53:38.929 [info] Registering default platform agent...
+2026-05-16 00:53:38.931 [info] BYOK: fetching known models list
+2026-05-16 00:53:38.931 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-05-16 00:53:38.931 [info] [code-referencing] Public code references are enabled.
+2026-05-16 00:53:38.933 [info] activationBlocker from 'conversationFeature' took for 995ms
+2026-05-16 00:53:39.027 [info] BYOK: Copilot Chat known models list fetched successfully.
+2026-05-16 00:53:39.035 [info] BYOK: registered 8 provider(s): ollama, anthropic, gemini, xai, openai, openrouter, azure, customoai
+2026-05-16 00:53:39.985 [info] Fetched model metadata in 1962ms de5d870d-0d1a-4b25-a2e5-a926e2f18133
+2026-05-16 00:53:40.720 [info] [CopilotCLI] OpenTelemetry enabled: exporter=file, source=github.copilot
+2026-05-16 00:53:40.805 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+2026-05-16 00:53:40.809 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary
+2026-05-16 00:53:40.833 [info] Latest entry: ccreq:latest.copilotmd
+2026-05-16 00:53:40.836 [info] ccreq:e4ae5ea1.copilotmd | markdown
+2026-05-16 00:53:40.868 [info] [CopilotCLIChatSessionContentProvider] listSessions took 2680.1509220000007ms
+2026-05-16 00:53:40.869 [info] [CopilotCLIChatSessionContentProvider] listSessions took 1829.6686629999967ms
+2026-05-16 00:53:40.892 [info] [CopilotCLIChatSessionContentProvider] listSessions took 6.3075709999975516ms
+2026-05-16 00:56:55.298 [info] [CopilotCLIChatSessionContentProvider] listSessions took 9.76171500000055ms
+2026-05-16 01:48:40.629 [info] Logged in as drneerajparashar-spec
+2026-05-16 01:48:41.253 [info] Got Copilot token for drneerajparashar-spec
+2026-05-16 01:48:41.253 [info] Copilot Chat: 0.48.1, VS Code: 1.120.0
+2026-05-16 01:48:41.340 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-05-16 01:48:41.340 [info] copilot token sku: free_limited_copilot
+2026-05-16 01:48:41.340 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-05-16 01:48:41.340 [info] [code-referencing] Public code references are enabled.
+2026-05-16 01:48:42.217 [info] Fetched model metadata in 883ms e1a8b4ba-62f3-4e17-a381-0ca4ecc2688a
+2026-05-16 01:48:42.459 [info] ccreq:5ff86502.copilotmd | markdown
+2026-05-16 02:44:42.568 [info] Logged in as drneerajparashar-spec
+2026-05-16 02:44:43.436 [info] Got Copilot token for drneerajparashar-spec
+2026-05-16 02:44:43.436 [info] Copilot Chat: 0.48.1, VS Code: 1.120.0
+2026-05-16 02:44:44.957 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-05-16 02:44:44.957 [info] copilot token sku: free_limited_copilot
+2026-05-16 02:44:44.957 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-05-16 02:44:44.957 [info] [code-referencing] Public code references are enabled.
+2026-05-16 02:44:45.816 [info] Fetched model metadata in 999ms 6793eec0-47db-45a2-baf6-aee1691d126e
+2026-05-16 02:44:46.282 [info] ccreq:711cd025.copilotmd | markdown
+2026-05-16 03:40:44.514 [info] Logged in as drneerajparashar-spec
+2026-05-16 03:40:45.183 [info] Got Copilot token for drneerajparashar-spec
+2026-05-16 03:40:45.183 [info] Copilot Chat: 0.48.1, VS Code: 1.120.0
+2026-05-16 03:40:45.421 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-05-16 03:40:45.421 [info] copilot token sku: free_limited_copilot
+2026-05-16 03:40:45.421 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-05-16 03:40:45.422 [info] [code-referencing] Public code references are enabled.
+2026-05-16 03:40:46.285 [info] Fetched model metadata in 876ms 81a6472a-ba75-4395-928b-89b204147660
+2026-05-16 03:40:46.552 [info] ccreq:a027a112.copilotmd | markdown
+2026-05-16 04:36:31.909 [info] Logged in as drneerajparashar-spec
+2026-05-16 04:36:32.469 [info] Got Copilot token for drneerajparashar-spec
+2026-05-16 04:36:32.469 [info] Copilot Chat: 0.48.1, VS Code: 1.120.0
+2026-05-16 04:36:32.675 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-05-16 04:36:32.675 [info] copilot token sku: free_limited_copilot
+2026-05-16 04:36:32.675 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-05-16 04:36:32.675 [info] [code-referencing] Public code references are enabled.
+2026-05-16 04:36:33.481 [info] Fetched model metadata in 819ms 173d7b34-5beb-43d6-828e-9f26ad5efd2a
+2026-05-16 04:36:33.990 [info] ccreq:b4454be9.copilotmd | markdown
+2026-05-16 05:32:32.868 [info] Logged in as drneerajparashar-spec
+2026-05-16 05:32:33.485 [info] Got Copilot token for drneerajparashar-spec
+2026-05-16 05:32:33.485 [info] Copilot Chat: 0.48.1, VS Code: 1.120.0
+2026-05-16 05:32:33.683 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-05-16 05:32:33.683 [info] copilot token sku: free_limited_copilot
+2026-05-16 05:32:33.683 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-05-16 05:32:33.683 [info] [code-referencing] Public code references are enabled.
+2026-05-16 05:32:34.097 [info] Fetched model metadata in 429ms 48370fd6-e52a-441d-9e52-ce81a6392836
+2026-05-16 05:32:34.118 [info] ccreq:195f43b4.copilotmd | markdown
+2026-05-16 06:27:34.063 [info] Logged in as drneerajparashar-spec
+2026-05-16 06:27:34.604 [info] Got Copilot token for drneerajparashar-spec
+2026-05-16 06:27:34.604 [info] Copilot Chat: 0.48.1, VS Code: 1.120.0
+2026-05-16 06:27:34.651 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-05-16 06:27:34.651 [info] copilot token sku: free_limited_copilot
+2026-05-16 06:27:34.651 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-05-16 06:27:34.651 [info] [code-referencing] Public code references are enabled.
+2026-05-16 06:27:35.577 [info] Fetched model metadata in 931ms 885cac21-9b1a-430a-b8ed-36ecbdbf52c7
+2026-05-16 06:27:35.831 [info] ccreq:a51e942f.copilotmd | markdown
+2026-05-16 07:22:35.187 [info] Logged in as drneerajparashar-spec
+2026-05-16 07:22:35.805 [info] Got Copilot token for drneerajparashar-spec
+2026-05-16 07:22:35.805 [info] Copilot Chat: 0.48.1, VS Code: 1.120.0
+2026-05-16 07:22:35.943 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-05-16 07:22:35.943 [info] copilot token sku: free_limited_copilot
+2026-05-16 07:22:35.943 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-05-16 07:22:35.943 [info] [code-referencing] Public code references are enabled.
+2026-05-16 07:22:36.813 [info] Fetched model metadata in 891ms db86aca4-be88-4673-8449-547d938c631f
+2026-05-16 07:22:37.060 [info] ccreq:8621dc39.copilotmd | markdown
+2026-05-16 08:18:36.403 [info] Logged in as drneerajparashar-spec
+2026-05-16 08:18:36.989 [info] Got Copilot token for drneerajparashar-spec
+2026-05-16 08:18:36.990 [info] Copilot Chat: 0.48.1, VS Code: 1.120.0
+2026-05-16 08:18:37.158 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-05-16 08:18:37.158 [info] copilot token sku: free_limited_copilot
+2026-05-16 08:18:37.158 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-05-16 08:18:37.158 [info] [code-referencing] Public code references are enabled.
+2026-05-16 08:18:37.548 [info] Fetched model metadata in 406ms 605696b4-4b55-4c10-8b58-aa54e62b478c
+2026-05-16 08:18:37.563 [info] ccreq:1dda5026.copilotmd | markdown
+2026-05-16 09:13:37.813 [info] Logged in as drneerajparashar-spec
+2026-05-16 09:13:38.555 [info] Got Copilot token for drneerajparashar-spec
+2026-05-16 09:13:38.555 [info] Copilot Chat: 0.48.1, VS Code: 1.120.0
+2026-05-16 09:13:39.063 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-05-16 09:13:39.063 [info] copilot token sku: free_limited_copilot
+2026-05-16 09:13:39.063 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-05-16 09:13:39.063 [info] [code-referencing] Public code references are enabled.
+2026-05-16 09:13:39.812 [info] Fetched model metadata in 785ms de07c7af-1487-4043-b58c-02d15b86f8f4
+2026-05-16 09:13:40.098 [info] ccreq:635767ae.copilotmd | markdown
+2026-05-16 10:09:39.348 [info] Logged in as drneerajparashar-spec
+2026-05-16 10:09:40.009 [info] Got Copilot token for drneerajparashar-spec
+2026-05-16 10:09:40.009 [info] Copilot Chat: 0.48.1, VS Code: 1.120.0
+2026-05-16 10:09:40.366 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-05-16 10:09:40.366 [info] copilot token sku: free_limited_copilot
+2026-05-16 10:09:40.366 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-05-16 10:09:40.366 [info] [code-referencing] Public code references are enabled.
+2026-05-16 10:09:40.827 [info] Fetched model metadata in 493ms bc2865d6-0b84-4aec-8bdf-46ef985bf0c1
+2026-05-16 10:09:40.857 [info] ccreq:9e2ad17a.copilotmd | markdown
+2026-05-16 11:04:40.451 [info] Logged in as drneerajparashar-spec
+2026-05-16 11:04:41.096 [info] Got Copilot token for drneerajparashar-spec
+2026-05-16 11:04:41.096 [info] Copilot Chat: 0.48.1, VS Code: 1.120.0
+2026-05-16 11:04:41.179 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-05-16 11:04:41.179 [info] copilot token sku: free_limited_copilot
+2026-05-16 11:04:41.179 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-05-16 11:04:41.179 [info] [code-referencing] Public code references are enabled.
+2026-05-16 11:04:42.109 [info] Fetched model metadata in 935ms ce7505bb-5b02-4d58-b33f-953be584c29e
+2026-05-16 11:04:42.375 [info] ccreq:91a90485.copilotmd | markdown
+2026-05-16 12:00:41.611 [info] Logged in as drneerajparashar-spec
+2026-05-16 12:00:42.326 [info] Got Copilot token for drneerajparashar-spec
+2026-05-16 12:00:42.327 [info] Copilot Chat: 0.48.1, VS Code: 1.120.0
+2026-05-16 12:00:42.642 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-05-16 12:00:42.642 [info] copilot token sku: free_limited_copilot
+2026-05-16 12:00:42.642 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-05-16 12:00:42.642 [info] [code-referencing] Public code references are enabled.
+2026-05-16 12:00:43.583 [info] Fetched model metadata in 952ms 80842d17-71ab-4d0c-af1b-19339a6bd74b
+2026-05-16 12:00:44.160 [info] ccreq:f3c8640f.copilotmd | markdown
+2026-05-16 12:56:42.844 [info] Logged in as drneerajparashar-spec
+2026-05-16 12:56:43.472 [info] Got Copilot token for drneerajparashar-spec
+2026-05-16 12:56:43.472 [info] Copilot Chat: 0.48.1, VS Code: 1.120.0
+2026-05-16 12:56:43.613 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-05-16 12:56:43.613 [info] copilot token sku: free_limited_copilot
+2026-05-16 12:56:43.613 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-05-16 12:56:43.613 [info] [code-referencing] Public code references are enabled.
+2026-05-16 12:56:44.580 [info] Fetched model metadata in 973ms 0d697f54-3253-4201-969e-8a88ce2ee168
+2026-05-16 12:56:44.853 [info] ccreq:3160171d.copilotmd | markdown
+2026-05-16 13:52:44.010 [info] Logged in as drneerajparashar-spec
+2026-05-16 13:52:44.994 [info] Got Copilot token for drneerajparashar-spec
+2026-05-16 13:52:44.994 [info] Copilot Chat: 0.48.1, VS Code: 1.120.0
+2026-05-16 13:52:45.394 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-05-16 13:52:45.394 [info] copilot token sku: free_limited_copilot
+2026-05-16 13:52:45.394 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-05-16 13:52:45.394 [info] [code-referencing] Public code references are enabled.
+2026-05-16 13:52:46.498 [info] Fetched model metadata in 1128ms 8d01e6c9-38bd-4349-98da-845dec312a21
+2026-05-16 13:52:48.147 [info] ccreq:fdda397c.copilotmd | markdown

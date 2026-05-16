@@ -1,0 +1,31 @@
+2026-05-16 00:53:01.106 [info] StorageMainService: creating application shared storage
+2026-05-16 00:53:01.110 [info] [shared storage] Creating shared storage database at '/home/neeraj_parashar/.vscode-shared/sharedStorage/state.vscdb' (wasCreated: false)
+2026-05-16 00:53:01.110 [info] [shared storage] Initializing fallback application storage (path: /home/neeraj_parashar/.config/Code/User/globalStorage/state.vscdb)
+2026-05-16 00:53:01.236 [info] [shared storage] Fallback application storage initialized with 79 items
+2026-05-16 00:53:01.250 [info] update#setState idle
+2026-05-16 00:53:31.249 [info] update#setState checking for updates
+2026-05-16 00:53:31.345 [info] update#setState idle
+2026-05-16 01:53:30.880 [info] update#setState checking for updates
+2026-05-16 01:53:31.061 [info] update#setState idle
+2026-05-16 02:53:30.574 [info] update#setState checking for updates
+2026-05-16 02:53:30.953 [info] update#setState idle
+2026-05-16 03:53:30.247 [info] update#setState checking for updates
+2026-05-16 03:53:30.537 [info] update#setState idle
+2026-05-16 05:27:16.486 [info] update#setState checking for updates
+2026-05-16 05:27:16.754 [info] update#setState idle
+2026-05-16 06:27:16.189 [info] update#setState checking for updates
+2026-05-16 06:27:16.379 [info] update#setState idle
+2026-05-16 07:27:15.903 [info] update#setState checking for updates
+2026-05-16 07:27:16.171 [info] update#setState idle
+2026-05-16 08:27:15.650 [info] update#setState checking for updates
+2026-05-16 08:27:16.020 [info] update#setState idle
+2026-05-16 09:27:15.387 [info] update#setState checking for updates
+2026-05-16 09:27:16.208 [info] update#setState idle
+2026-05-16 10:27:15.290 [info] update#setState checking for updates
+2026-05-16 10:27:15.767 [info] update#setState idle
+2026-05-16 11:27:15.108 [info] update#setState checking for updates
+2026-05-16 11:27:15.461 [info] update#setState idle
+2026-05-16 12:27:14.858 [info] update#setState checking for updates
+2026-05-16 12:27:15.477 [info] update#setState idle
+2026-05-16 13:27:14.616 [info] update#setState checking for updates
+2026-05-16 13:27:14.974 [info] update#setState idle
